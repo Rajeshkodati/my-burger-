@@ -1,0 +1,1 @@
+export const baseUrl = 'https://my-project-c66a8.firebaseio.com';
